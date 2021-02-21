@@ -38,7 +38,6 @@ Also we present an additional analysis to confirm the above statement.
 
 We calculated percentage Star rating for all the Stars such as 1 star, 2 star , 3 star and 4 star. We, then plotted a graph as shown below for the Vine and non Vine members for the percent star rating .
 
-![](https://github.com/kirtibhandari/Amazon_Vine_Analysis
-/blob/main/Resources/additional_analysis.png)
+![](https://github.com/kirtibhandari/Amazon_Vine_Analysis/blob/main/Resources/additional_analysis.png)
 
  The graph clearly depicts that the Vine members were biased towards positive reviews as compared to non-Vine members, where there were not at all 1-Star reviews from Vine members as compared to non-Vine members.
